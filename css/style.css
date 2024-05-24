@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+html {
+    font-size: 100%; /* 16px */
+}
+
+h1 {
+    /* color: green; */
+    /* rem ... root em */
+    font-size: 2rem;
+    font-family: serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: "游ゴシック体","Yu Gothic", "YuGothic", sans-serif;
+}
+
+p {
+    font-family: "ヒラギノ丸ゴ Pro W4", "Hiragino Maru Gothic Pro", sans-serif;
+}
+
+/* 文字の太さ */
+.futoji {
+    font-weight: bold;
+}
+
+/* 行の高さ */
+strong {
+    display: block;
+}
+
+.lh-1 {
+    line-height: 1;
+}
+
+.lh-17 {
+    line-height: 1.7;
+}
+
+.lh-25 {
+    line-height: 2.5;
+}
+
+
+/* 文字揃え */
+.ta-l {
+    text-align: left;
+}
+
+.ta-c {
+    text-align: center;
+}
+
+.ta-r {
+    text-align: right;
+}
+
+/* web font */
+.rocknroll-one-regular {
+    font-family: "RocknRoll One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
